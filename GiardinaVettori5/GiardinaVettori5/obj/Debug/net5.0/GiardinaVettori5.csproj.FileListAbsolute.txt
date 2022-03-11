@@ -1,0 +1,16 @@
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\bin\Debug\net5.0\GiardinaVettori5.exe
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\bin\Debug\net5.0\GiardinaVettori5.deps.json
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\bin\Debug\net5.0\GiardinaVettori5.runtimeconfig.json
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\bin\Debug\net5.0\GiardinaVettori5.runtimeconfig.dev.json
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\bin\Debug\net5.0\GiardinaVettori5.dll
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\bin\Debug\net5.0\ref\GiardinaVettori5.dll
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\bin\Debug\net5.0\GiardinaVettori5.pdb
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\obj\Debug\net5.0\GiardinaVettori5.csproj.AssemblyReference.cache
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\obj\Debug\net5.0\GiardinaVettori5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\obj\Debug\net5.0\GiardinaVettori5.AssemblyInfoInputs.cache
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\obj\Debug\net5.0\GiardinaVettori5.AssemblyInfo.cs
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\obj\Debug\net5.0\GiardinaVettori5.csproj.CoreCompileInputs.cache
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\obj\Debug\net5.0\GiardinaVettori5.dll
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\obj\Debug\net5.0\ref\GiardinaVettori5.dll
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\obj\Debug\net5.0\GiardinaVettori5.pdb
+C:\Users\utente\OneDrive\Desktop\3di-2022-esercizivettori-ale175\GiardinaVettori5\GiardinaVettori5\obj\Debug\net5.0\GiardinaVettori5.genruntimeconfig.cache
