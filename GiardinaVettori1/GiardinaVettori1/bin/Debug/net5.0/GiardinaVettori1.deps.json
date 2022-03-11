@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GiardinaVettori1/1.0.0": {
+        "runtime": {
+          "GiardinaVettori1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GiardinaVettori1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
